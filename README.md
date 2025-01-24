@@ -5,6 +5,8 @@ The final project of the HTML and CSS in depth Coursera course part of the Meta 
 
 ## Requirement
 
+### Page Structure : 
+
 - The main structure of the page consists of : 
     - header 
     - main content 
@@ -34,3 +36,40 @@ Footer consists of :
 - Copyright content on the right
 
 ![Footer General Structure](./markdown_images/footer_general_structure.png "Footer General Structure")
+
+So overall, it should look like this withe details : 
+
+![Main Structure With Details](./markdown_images/overall_structure.png "Main Structure With Details")
+
+### Semantics : 
+
+- Use proper tags so that the page is accessible and Search Engine friendly.
+- Header Tag for the Header Section 
+- Nav Tag for the Navigation Section
+- Main Tag for the Main Element
+- Footer Tag for the Footer Element 
+
+![Tags to Use for the Main Structure](./markdown_images/tags_to_use.png "Tags to Use for the Main Structure")
+
+### Planning for the Layout of the page : 
+
+- Grid or Flexbox Layout
+
+#### Grid : 
+
+#### Flexbox : 
+
+- One full width colum and three box columns for the main content : 
+
+![Layout Example](./markdown_images/Layout_Structure.png "Layout Example")
+
+- Main content is split into two row : 
+    - The promotion one with one row and one column
+    - The article ones with one row and three columns
+- Footer is one row and two columns 
+
+![Overall Layout Structure](./markdown_images/overall_layout.png "Overall Layout Structure")
+
+### Units of Measurement : 
+
+- Em or Rem 
