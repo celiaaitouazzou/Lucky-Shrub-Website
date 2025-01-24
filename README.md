@@ -21,6 +21,16 @@ The header consist of :
     - Info 
 ![Example of Navigation](./markdown_images/navigation_menu.png "Navigation Example")
 
-- The main content consists of : 
+The main content consists of : 
+- A big banner with the client's promotional offer 
+- three columns and for each : 
+    - An Image
+    - A title 
+    - And some text 
+![Main Content General Structure](./markdown_images/main_content_general_structure.png "Main Content General Structure")
 
-- Footer consists of : 
+Footer consists of : 
+- A small version of the logo on the left 
+- Copyright content on the right
+
+![Footer General Structure](./markdown_images/footer_general_structure.png "Footer General Structure")
