@@ -25,11 +25,6 @@ h3 {
     font-size: 1rem;
 }
 
-img {
-    width: 25rem;
-    height: 50rem;
-}
-
 header {
     display: flex;
     justify-content: center;
@@ -47,17 +42,19 @@ header > img {
     height: 40vh;
     
 }
+/*
 
 nav ul {
     display: flex;
     justify-content: center;
     list-style: none;
     text-align: center;
-    border-radius: 25px;
+    border-radius: 5px;
     border-style: solid;
     margin-bottom: 5%;
     margin-left: auto;
     margin-right: auto;
+    width: 80%;
 }
 
 nav li {
@@ -65,11 +62,13 @@ nav li {
     padding: 1%;
     margin: 1%;
     font-size: large;
+    
 }
 
 nav li > a {
     text-decoration: none;
     color: black;
+    
 }
 
 section {
@@ -110,10 +109,24 @@ footer div {
     flex: 1;
 }
 
-.promotion {
+
+.promotion-container {
+    display: flex;
+    align-items: flex-end;
 
 }
 
+.promo-image{
+    max-width: 100%;
+    max-height:100%;
+    justify-content: left;
+}
+  
+.text {
+    font-size: 20px;
+    padding-left: 20px;
+    justify-content: right;
+}
 
 .indoor-image-loop {
     
@@ -140,3 +153,4 @@ footer div {
 .indoor-image-loop img:nth-child(even){
     animation: loop 50s -25s linear infinite;
 }
+*/
