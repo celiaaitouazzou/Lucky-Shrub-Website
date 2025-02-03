@@ -1,0 +1,42 @@
+promotion flower Pot: 
+
+This Valentine’s Day, gift a love that never fades with our everlasting flower plants! 
+Unlike cut flowers, these blooms continue to grow, just like the bond you share with your special someone. 
+A living symbol of love, they flourish with care, reminding your partner daily of your commitment. 
+Sustainable, meaningful, and endlessly beautiful—our flower plants are the perfect way to say, "My love for you will never wither." 🌿💖✨ 
+Shop now and let love bloom forever!
+
+promotion newsletter : 
+
+subscribe to newsletter get 5% off 
+
+promotion grow-your-winter plants with seeds : 
+
+<h3>Indoor Plants</h3>
+<div class="indoor-image-loop">
+    <img src="../assets/Home/Home-Indoor/asset_1.jpg" alt="Indoor Plant no.1">
+</div>
+<p>
+    Welcome joy and balance into your life with the gentle presence of indoor plants. 
+    They fill your space with serenity, brighten your mood, and nurture your well-being. 
+    These green companions bring a quiet sense of harmony, transforming your home into a vibrant sanctuary where happiness blooms and every moment feels lighter, brighter, and full of life.
+</p>
+
+<h3>Outdoor Plants</h3>
+<img src="../assets/Home/Home-Outdoor/asset_1.png" alt="Outdoor Plant no.1">
+<p>
+    Turn your garden into a peaceful haven, no matter your home's style or size! 
+    With vibrant exterior plants, you can create a stunning outdoor retreat. 
+    From lush greenery to colorful blooms, these plants enhance your curb appeal, provide shade and privacy, and invite nature’s tranquility right to your doorstep. 
+    Start your journey to an outdoor oasis today!
+</p>
+
+<h3>Flower Plants</h3>
+<img src="../assets/Home/Home-Flower/asset_1.jpg" alt="Outdoor Plant no.1">
+<p>
+    Bring color, joy, and life into your world with the magic of flower plants. 
+    Their vibrant blooms brighten your space and your mood, while adding a touch of elegance to your home’s decor, both inside and out. 
+    Flower plants create a cheerful atmosphere where happiness blossoms, and every moment feels more alive and full of light.
+</p>
+
+<img src="../Lucky-Shrub-logos/Asset 3@3x.png" alt="Lucky-Shrub-logo-footer">
