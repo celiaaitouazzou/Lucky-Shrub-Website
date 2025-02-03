@@ -69,7 +69,7 @@ nav ul {
 
 .promotion-container{
     display: flex;
-    background-color: rgb(255, 219, 244);
+    background-color: peachpuff;
     justify-content: space-around;
     flex-wrap: wrap;
     flex-shrink: 1;
@@ -81,64 +81,76 @@ nav ul {
 
 
 .item-1 img {
-    width: 24em;
-    height: 27em;
+    width: 30em;
     display: block;
-    padding: 5%;
+    padding: 1%;
+    height: 35em;
 }
 
 .item-2 {
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
+    padding: 1%;
 }
 
 .item-2-1 {
     display: flex;
     justify-content: space-between;
-    align-items: center;
+    align-items: flex-start;
+    background-color: #BFDAA4;
+    border-radius: 10px;
+    
 }
 
 .item-2-1-1 {
     display: flex;
     flex-direction: column;
-    padding-left: 1%;
-    
+}
+
+.item h3 {
+    padding-bottom: 2%;
+    padding-top: 1%;
 }
 
 .item-2-1-2 img {
     width: 7.5em;
-    height: 6em;
-    height: 90%;
+    height: 100%;
+    border-radius: 10px;
 }
 
 .item-2-2 {
     display: flex;
     justify-content: space-between;
-    align-items: center;
+    align-items: flex-start;
 }
 
 .item-2-2-1 {
     display: flex;
     flex-direction: column;
+    padding: 1%;
+}
+
+.item-2-2-1 h3{
+    padding-bottom: 2%;
 }
 
 .item-2-2-2 img {
     width: 7.5em;
-    height: 6em;
     height: 90%;
+    padding: 1%;
 }
 
 .item-2-3 {
     display: flex;
     justify-content: space-between;
-    align-items: center;
+    align-items: flex-start;
 }
 
 .item-2-3-2 img{
     width: 7.5em;
-    height: 6em;
     height: 90%;
+    padding: 1%;
 }
 
 .item-2-3 {
@@ -147,4 +159,9 @@ nav ul {
 .item-2-3-1 {
     display: flex;
     flex-direction: column;
+    padding: 1%;
+}
+
+.item p {
+    width: 20em;
 }
